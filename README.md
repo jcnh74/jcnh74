@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jcnh74
-- 👀 I’m interested in Web
-- 🌱 I’m currently learning Blender
-- 💞️ I’m looking to collaborate on three.js, gsap, seo, ecommerce
+- 👀 I’m interested in AI
+- 🌱 I’m currently learning n8n
+- 💞️ I’m looking to collaborate on v0, n8n, MCP, Cursor
 - 📫 How to reach me - hanusek.com
 
 <!---
