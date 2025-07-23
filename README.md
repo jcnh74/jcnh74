@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jcnh74
 - 👀 I’m interested in AI
-- 🌱 I’m currently learning n8n
-- 💞️ I’m looking to collaborate on v0, n8n, MCP, Cursor
+- 🌱 I’m currently building with Cursor/Claude/Grok/Gemini
+- 💞️ I’m looking to collaborate
 - 📫 How to reach me - hanusek.com
 
 <!---
